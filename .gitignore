@@ -1,8 +1,4 @@
 ### IntelliJ IDEA ###
-.idea
-CodSoft3.iml
-src
-.gitignore
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
